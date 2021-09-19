@@ -1,5 +1,5 @@
 ## TÍTULO
-Practica profesional de bioquímico PUCV 
+Practica profesional de bioquímica PUCV 
 
 ## GRADO ACADÉMICO
 Práctica profesional para optar al grado de [Bioquímico](https://www.pucv.cl/pucv/pregrado/bioquimica).  
